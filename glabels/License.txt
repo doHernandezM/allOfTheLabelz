@@ -1,5 +1,5 @@
-This license applies to the glabels template database, located
-in the "templates" subdirectory of the glabels distribution.
+This license applies to the this template database, located
+in the "glabels" subdirectory of the allOftheLabelz distribution.
 
 Copyright (c) 2001-2009 Jim Evins
 
